@@ -146,7 +146,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp 04499559-3693-4388-8fd1-234d2f2b4331)
-    (at 267.43 80.95)
+    (at 164.82 83.18)
     (descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x02 2.54mm single row")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -211,7 +211,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp 06e8530a-8fac-4215-a489-2d8693715c7e)
-    (at 256.97 89.59)
+    (at 154.36 91.82)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -265,7 +265,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp 09077a9b-bb1a-41c4-a5d0-681a6e77447c)
-    (at 264.99 99.63)
+    (at 162.38 101.86)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -319,7 +319,7 @@
 
   (footprint "EduboardV2_kicadlib:KEY-SMD_4P-L6.0-W6.0-P4.50-LS9.5-BL" (layer "F.Cu")
     (tstamp 0ca6e376-3d8c-4ee5-bb92-feea076e3947)
-    (at 244.7 72.5)
+    (at 142.09 74.73)
     (property "JLC Part" "Extended Part")
     (property "LCSC Part" "C127509")
     (property "Manufacturer" "韩国韩荣")
@@ -426,7 +426,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
     (tstamp 0e3c51e4-f28a-4cd9-b5d9-d3d0dd4daa45)
-    (at 248.73 93.35)
+    (at 146.12 95.58)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -480,7 +480,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp 12b69147-3967-440e-b13e-b3bf09644a62)
-    (at 260.98 102.14)
+    (at 158.37 104.37)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -534,7 +534,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp 131a6eec-39bf-40ab-a066-0ba0130b7167)
-    (at 256.97 92.1)
+    (at 154.36 94.33)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -588,7 +588,7 @@
 
   (footprint "EduboardV2_kicadlib:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR" (layer "F.Cu")
     (tstamp 16447ec5-16d1-49b7-9aab-8d69d55f5b8e)
-    (at 267.105 112.25)
+    (at 164.495 114.48)
     (property "JLC Part" "Extended Part")
     (property "LCSC Part" "C2593")
     (property "Manufacturer" "Infineon(英飞凌)")
@@ -637,7 +637,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp 17abd630-27f2-4cb9-bf5c-3a65d277aaf7)
-    (at 256.97 94.61)
+    (at 154.36 96.84)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -691,7 +691,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
     (tstamp 1e338885-696d-4b6a-8bb8-7f509cd3c971)
-    (at 248.73 90.34)
+    (at 146.12 92.57)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -745,7 +745,7 @@
 
   (footprint "EduboardV2_kicadlib:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR" (layer "F.Cu")
     (tstamp 1f13d26f-4819-445d-bb99-1fd6a6ba17b4)
-    (at 262.48 112.25)
+    (at 159.87 114.48)
     (property "JLC Part" "Basic Part")
     (property "LCSC Part" "C20917")
     (property "Manufacturer" "AOS")
@@ -794,7 +794,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp 22e1c622-892f-49f1-a4fb-7ebf4f320d3d)
-    (at 256.97 99.63)
+    (at 154.36 101.86)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -848,7 +848,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
     (tstamp 25aa95b2-bbb3-43dd-bebb-8ebcb9d703bf)
-    (at 248.73 105.39)
+    (at 146.12 107.62)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -902,7 +902,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp 34c5f871-d796-4893-bef6-edfdaf09d683)
-    (at 252.96 97.12)
+    (at 150.35 99.35)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -956,7 +956,7 @@
 
   (footprint "EduboardV2_kicadlib:SOT-223_L6.5-W3.5-P2.30-LS7.0-BR" (layer "F.Cu")
     (tstamp 35d819c6-b9e1-47e3-9565-229e45e169cb)
-    (at 272.52 90.35)
+    (at 169.91 92.58)
     (property "JLC Part" "Extended Part")
     (property "LCSC Part" "C86781")
     (property "Manufacturer" "ST(意法半导体)")
@@ -1007,7 +1007,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp 3943f248-6fa8-4e34-9fe1-0da92daee8af)
-    (at 260.98 97.12)
+    (at 158.37 99.35)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -1061,7 +1061,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp 3d5dd863-e696-4d9e-99c2-610a885ab23b)
-    (at 256.97 104.65)
+    (at 154.36 106.88)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -1115,7 +1115,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp 42381281-3161-4d84-a72c-faea8d3c495e)
-    (at 252.96 92.1)
+    (at 150.35 94.33)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -1169,7 +1169,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp 434298df-30b4-4265-96a8-fc83f6ca5bbc)
-    (at 260.98 99.63)
+    (at 158.37 101.86)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -1223,7 +1223,7 @@
 
   (footprint "burgerLibFP:CONN-SMD_SM02B-NSHSS-TB-LF-SN" (layer "F.Cu")
     (tstamp 4aa0ea10-133e-465c-bed2-2487693e44d1)
-    (at 271.05 70.855)
+    (at 168.44 73.085)
     (property "JLC Part" "Extended Part")
     (property "LCSC Part" "C265415")
     (property "Manufacturer" "JST")
@@ -1274,7 +1274,7 @@
 
   (footprint "EduboardV2_kicadlib:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR" (layer "F.Cu")
     (tstamp 4f11d25f-dd77-47fb-aa78-b7c6024e9475)
-    (at 253.23 108.02)
+    (at 150.62 110.25)
     (property "JLC Part" "Extended Part")
     (property "LCSC Part" "C116157")
     (property "Manufacturer" "SHIKUES(时科)")
@@ -1323,7 +1323,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp 5129810f-cc44-4ad7-980e-edbc473ec981)
-    (at 252.96 94.61)
+    (at 150.35 96.84)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -1377,7 +1377,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp 53888adf-9210-4b95-bd4b-f3e155fa2ce7)
-    (at 252.96 104.65)
+    (at 150.35 106.88)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -1431,7 +1431,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp 5634ea9f-dcb7-4175-9598-06f8cc96b91c)
-    (at 258.13 80.95)
+    (at 155.52 83.18)
     (descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x02 2.54mm single row")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -1496,7 +1496,7 @@
 
   (footprint "EduboardV2_kicadlib:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR" (layer "F.Cu")
     (tstamp 5cea1179-33e3-4eac-8e48-141ff37a4867)
-    (at 257.855 108.02)
+    (at 155.245 110.25)
     (property "JLC Part" "Extended Part")
     (property "LCSC Part" "C116157")
     (property "Manufacturer" "SHIKUES(时科)")
@@ -1545,7 +1545,7 @@
 
   (footprint "EduboardV2_kicadlib:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR" (layer "F.Cu")
     (tstamp 5d0443f2-7924-4f04-9dd3-9d121085d0a8)
-    (at 253.23 112.25)
+    (at 150.62 114.48)
     (property "JLC Part" "Extended Part")
     (property "LCSC Part" "C116157")
     (property "Manufacturer" "SHIKUES(时科)")
@@ -1594,7 +1594,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp 5eed8ffe-d924-47fc-95b7-aca28e246bf2)
-    (at 260.98 94.61)
+    (at 158.37 96.84)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -1648,7 +1648,7 @@
 
   (footprint "EduboardV2_kicadlib:LED0603-FD_BLUE" (layer "F.Cu")
     (tstamp 62e8b778-574a-4a42-ad6f-b3c8e75a0b2a)
-    (at 270 76.12)
+    (at 167.39 78.35)
     (property "JLC Part" "Basic Part")
     (property "LCSC Part" "C72041")
     (property "Manufacturer" "EVERLIGHT(亿光)")
@@ -1721,7 +1721,7 @@
 
   (footprint "burgerLibFP:SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR" (layer "F.Cu")
     (tstamp 6692e418-2e95-474d-913b-e98028589285)
-    (at 242.425 107.95)
+    (at 139.815 110.18)
     (property "JLC Part" "Extended Part")
     (property "LCSC Part" "C14879")
     (property "Manufacturer" "MICROCHIP(美国微芯)")
@@ -1772,7 +1772,7 @@
 
   (footprint "EduboardV2_kicadlib:SOT-143-4_L2.9-W1.3-P1.92-LS2.4-BL" (layer "F.Cu")
     (tstamp 6d6c3bc2-48f8-48ae-aeb8-348382d46ba5)
-    (at 272.225 81.15)
+    (at 169.615 83.38)
     (property "JLC Part" "Extended Part")
     (property "LCSC Part" "C2827688")
     (property "Manufacturer" "TECH PUBLIC(台舟)")
@@ -1831,7 +1831,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp 7ea7ee2c-63b4-46f1-b28c-c8f563d5fe0f)
-    (at 262.78 80.95)
+    (at 160.17 83.18)
     (descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x02 2.54mm single row")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -1896,7 +1896,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp 82fda7fd-52d4-49cb-ad10-5564946dc750)
-    (at 252.96 87.08)
+    (at 150.35 89.31)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -1950,7 +1950,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
     (tstamp 83bffca1-ac5c-4dca-87b0-c99c86783210)
-    (at 248.73 96.36)
+    (at 146.12 98.59)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -2004,7 +2004,7 @@
 
   (footprint "EduboardV2_kicadlib:KEY-SMD_4P-L6.0-W6.0-P4.50-LS9.5-BL" (layer "F.Cu")
     (tstamp 8d99ddc8-9068-4a4a-87bc-182842ab702f)
-    (at 236.85 72.5)
+    (at 134.24 74.73)
     (property "JLC Part" "Extended Part")
     (property "LCSC Part" "C127509")
     (property "Manufacturer" "韩国韩荣")
@@ -2111,7 +2111,7 @@
 
   (footprint "EduboardV2_kicadlib:WIRELM-SMD_ESP32-S3-WROOM-1" (layer "F.Cu")
     (tstamp 9042989d-0973-4776-804f-ddde278fd31c)
-    (at 236.51 95.64)
+    (at 133.9 97.87)
     (property "JLC Part" "Extended Part")
     (property "LCSC Part" "C2913204")
     (property "Manufacturer" "ESPRESSIF(乐鑫)")
@@ -2286,7 +2286,7 @@
 
   (footprint "EduboardV2_kicadlib:KEY-SMD_4P-L6.0-W6.0-P4.50-LS9.5-BL" (layer "F.Cu")
     (tstamp 94060792-1c79-400a-9151-f80808f5f343)
-    (at 252.55 72.5)
+    (at 149.94 74.73)
     (property "JLC Part" "Extended Part")
     (property "LCSC Part" "C127509")
     (property "Manufacturer" "韩国韩荣")
@@ -2393,7 +2393,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp 9c98a96f-7824-4af7-8462-055f1ea0a164)
-    (at 264.99 94.61)
+    (at 162.38 96.84)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -2447,7 +2447,7 @@
 
   (footprint "EduboardV2_kicadlib:KEY-SMD_4P-L6.0-W6.0-P4.50-LS9.5-BL" (layer "F.Cu")
     (tstamp 9da389c8-102f-4bda-8549-704f792e4f39)
-    (at 229 72.5)
+    (at 126.39 74.73)
     (property "JLC Part" "Extended Part")
     (property "LCSC Part" "C127509")
     (property "Manufacturer" "韩国韩荣")
@@ -2554,7 +2554,7 @@
 
   (footprint "burgerLibFP:SENSOR_SMD_VEML6040A3OG" (layer "F.Cu")
     (tstamp a0de9f5f-68bd-4da4-a5e9-44ecc4b94bfa)
-    (at 275.92 80.695)
+    (at 173.31 82.925)
     (property "JLC Part" "Extended Part")
     (property "LCSC Part" "C78465")
     (property "Manufacturer" "VISHAY(威世)")
@@ -2599,7 +2599,7 @@
 
   (footprint "burgerLibFP:DFN-8_L2.0-W2.0-P0.50-BL-EP" (layer "F.Cu")
     (tstamp a23f34de-cec5-4492-826a-b45fd5336386)
-    (at 275.83 68.06)
+    (at 173.22 70.29)
     (property "JLC Part" "Extended Part")
     (property "LCSC Part" "C2682616")
     (property "Manufacturer" "ADI(亚德诺)")
@@ -2656,7 +2656,7 @@
 
   (footprint "burgerLibFP:LGA-8_BME280_BL" (layer "F.Cu")
     (tstamp aaecb466-f5e1-47f9-86aa-61f6e2048dd5)
-    (at 242.27 112.26)
+    (at 139.66 114.49)
     (property "JLC Part" "Extended Part")
     (property "LCSC Part" "C92489")
     (property "Manufacturer" "Bosch(博世)")
@@ -2707,7 +2707,7 @@
 
   (footprint "EduboardV2_kicadlib:USB-C-SMD_TYPE-C-USB-17" (layer "F.Cu")
     (tstamp acdde26e-1395-4946-95c4-d645f8d2d713)
-    (at 262.2 70.4)
+    (at 159.59 72.63)
     (property "JLC Part" "Extended Part")
     (property "LCSC Part" "C167321")
     (property "Manufacturer" "精拓金")
@@ -2800,7 +2800,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp ae089440-1577-4669-8103-a7af3c202c7a)
-    (at 256.97 97.12)
+    (at 154.36 99.35)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -2854,7 +2854,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp b20bbb71-a52b-456b-8756-847e8b9f535b)
-    (at 264.99 87.08)
+    (at 162.38 89.31)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -2908,7 +2908,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp b34c0da1-e65d-43db-a077-ae17e8ed487d)
-    (at 269.32 97.2)
+    (at 166.71 99.43)
     (descr "Through hole straight pin header, 1x03, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x03 2.54mm single row")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -2975,7 +2975,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp b3a0875e-ce8a-4fe7-8501-cea2604c5c16)
-    (at 273.97 97.2)
+    (at 171.36 99.43)
     (descr "Through hole straight pin header, 1x03, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x03 2.54mm single row")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -3042,7 +3042,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp b901221d-ede3-4c19-a3da-c7297b3d576b)
-    (at 260.98 104.65)
+    (at 158.37 106.88)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -3096,7 +3096,7 @@
 
   (footprint "EduboardV2_kicadlib:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR" (layer "F.Cu")
     (tstamp b9465566-1339-4931-a0bd-9a5674bfb958)
-    (at 262.48 108.02)
+    (at 159.87 110.25)
     (property "JLC Part" "Basic Part")
     (property "LCSC Part" "C20917")
     (property "Manufacturer" "AOS")
@@ -3145,7 +3145,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp be6c33be-382d-4751-a87e-03aa69c7fe49)
-    (at 252.96 89.59)
+    (at 150.35 91.82)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -3199,7 +3199,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp c56d1e53-927c-42d4-8983-6f766d0bef57)
-    (at 260.98 92.1)
+    (at 158.37 94.33)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -3253,7 +3253,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp c7ce83a3-05cd-44a8-a065-d4227c9a4511)
-    (at 264.99 89.59)
+    (at 162.38 91.82)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -3307,7 +3307,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp c831b240-f142-4c9e-9c6c-36afee913d71)
-    (at 256.97 102.14)
+    (at 154.36 104.37)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -3361,7 +3361,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp c86c1acd-f0f9-43a6-9832-4c8a9cdd51aa)
-    (at 264.99 92.1)
+    (at 162.38 94.33)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -3415,7 +3415,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp c94c85bf-cf00-4658-95e1-c2cbc4975b76)
-    (at 264.99 97.12)
+    (at 162.38 99.35)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -3469,7 +3469,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp c9b75786-c7d7-41c7-9b0b-900d9c191563)
-    (at 252.96 99.63)
+    (at 150.35 101.86)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -3523,7 +3523,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
     (tstamp cb09cce1-9ca8-4476-bda9-b850f39a8e37)
-    (at 248.73 87.33)
+    (at 146.12 89.56)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -3577,7 +3577,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp ceb9136b-1e3e-4936-b3b1-c71d44dd04f2)
-    (at 260.98 89.59)
+    (at 158.37 91.82)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -3631,7 +3631,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp d0d93c15-0d7d-41af-8133-8e3f6d398948)
-    (at 256.97 87.08)
+    (at 154.36 89.31)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -3685,7 +3685,7 @@
 
   (footprint "EduboardV2_kicadlib:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR" (layer "F.Cu")
     (tstamp d1b6ee14-641b-4098-948b-ea5e7c253c54)
-    (at 257.855 112.25)
+    (at 155.245 114.48)
     (property "JLC Part" "Extended Part")
     (property "LCSC Part" "C116157")
     (property "Manufacturer" "SHIKUES(时科)")
@@ -3734,7 +3734,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp d4d65240-f197-4fbd-92bd-273a1708b437)
-    (at 260.98 87.08)
+    (at 158.37 89.31)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -3788,7 +3788,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp da62cef4-05e3-4561-822d-e26a132a5550)
-    (at 252.96 102.14)
+    (at 150.35 104.37)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -3842,7 +3842,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp e31595e2-b4d8-405c-b6e9-b0344dfc3165)
-    (at 253.48 80.95)
+    (at 150.87 83.18)
     (descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x02 2.54mm single row")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -3907,7 +3907,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp e376658f-b739-4289-9622-207581e9b3a1)
-    (at 248.83 80.95)
+    (at 146.22 83.18)
     (descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x02 2.54mm single row")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -3972,7 +3972,7 @@
 
   (footprint "EduboardV2_kicadlib:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR" (layer "F.Cu")
     (tstamp e98322a5-80f1-4b90-8e78-49cbad64e960)
-    (at 267.105 108.02)
+    (at 164.495 110.25)
     (property "JLC Part" "Basic Part")
     (property "LCSC Part" "C20917")
     (property "Manufacturer" "AOS")
@@ -4021,7 +4021,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp eabee8ac-38b1-4e46-abda-95c3931a62ea)
-    (at 264.99 102.14)
+    (at 162.38 104.37)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -4075,7 +4075,7 @@
 
   (footprint "EduboardV2_kicadlib:LED-SMD_4P-L5.0-W5.0-TL_WS2812B-B" (layer "F.Cu")
     (tstamp ec355f64-106e-45dd-aec1-2faee5aeee28)
-    (at 273.48 109.43)
+    (at 170.87 111.66)
     (property "JLC Part" "Extended Part")
     (property "LCSC Part" "C2761795")
     (property "Manufacturer" "worldsemi")
@@ -4146,7 +4146,7 @@
 
   (footprint "Package_TO_SOT_SMD:SOT-563" (layer "F.Cu")
     (tstamp ee51d1bb-e526-4c31-b2f9-64b9d4510302)
-    (at 276.05 71.81)
+    (at 173.44 74.04)
     (descr "SOT563")
     (tags "SOT-563")
     (property "JLC Part" "Extended Part")
@@ -4212,7 +4212,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
     (tstamp f4adf7ad-7b93-4c75-958e-b3c8616e5308)
-    (at 248.73 102.38)
+    (at 146.12 104.61)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -4266,7 +4266,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
     (tstamp f7f7da0d-0da9-4a6b-b7bf-7ff1604c349b)
-    (at 248.73 99.37)
+    (at 146.12 101.6)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "Unisense.kicad_sch")
@@ -4320,7 +4320,7 @@
 
   (footprint "burgerLibFP:SMA_L4.3-W2.6-LS5.1-R-RD" (layer "F.Cu")
     (tstamp faa76071-caab-413e-a86d-e98025ef438c)
-    (at 273.155 114.95)
+    (at 170.545 117.18)
     (property "JLC Part" "Extended Part")
     (property "LCSC Part" "C2944426")
     (property "Manufacturer" "TDD(台冠电子)")
@@ -4365,7 +4365,7 @@
 
   (footprint "burgerLibFP:LGA-8_L2.5-W2.0-P0.65_AMP6127" (layer "F.Cu")
     (tstamp fd820ec6-c9bb-48b0-8825-7703412500cb)
-    (at 241.85 116.19)
+    (at 139.24 118.42)
     (property "JLC Part" "Extended Part")
     (property "LCSC Part" "C83291")
     (property "Manufacturer" "Bosch(博世)")
@@ -4428,7 +4428,7 @@
 
   (footprint "EduboardV2_kicadlib:CONN-SMD_S4B-PH-SM4-K-TB-LF-SN" (layer "F.Cu")
     (tstamp fdb3c0e7-e810-4e54-8af9-e94a21702c40)
-    (at 232.6 113.4)
+    (at 129.99 115.63)
     (property "JLC Part" "Extended Part")
     (property "LCSC Part" "C265332")
     (property "Manufacturer" "JST")
@@ -4506,5 +4506,8 @@
       (rotate (xyz 0 0 180))
     )
   )
+
+  (gr_rect (start 109.4 59.6) (end 185.6 132.7)
+    (stroke (width 0.2) (type default)) (fill none) (layer "Edge.Cuts") (tstamp be003125-b829-4b61-9f9e-98d9e3a799e4))
 
 )

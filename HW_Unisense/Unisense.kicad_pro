@@ -326,6 +326,18 @@
     [
       "6df981bf-448b-4c2b-a595-002ffc3cb7bc",
       ""
+    ],
+    [
+      "9218f659-c1f0-4394-b4e5-808fae454429",
+      "Unisense_Power"
+    ],
+    [
+      "0c042db9-5441-4e2b-9b06-01ea01b65c02",
+      "Unisense_Connections"
+    ],
+    [
+      "fff887bf-bf0e-4cc9-92ca-442004be8db6",
+      "Unisense_Sensors"
     ]
   ],
   "text_variables": {}
