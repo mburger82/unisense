@@ -3866,6 +3866,16 @@
 	)
 	(wire
 		(pts
+			(xy 223.52 116.84) (xy 223.52 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a15e7b7-f9a4-457d-8836-72842709078c")
+	)
+	(wire
+		(pts
 			(xy 66.04 53.34) (xy 66.04 67.945)
 		)
 		(stroke
@@ -3923,6 +3933,16 @@
 			(type default)
 		)
 		(uuid "39af9b9d-0a30-4c2e-82f0-8e1c3eca73f7")
+	)
+	(wire
+		(pts
+			(xy 209.55 109.22) (xy 213.36 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d965d5d-a97d-4e97-949d-99be71e5a786")
 	)
 	(wire
 		(pts
@@ -4073,6 +4093,16 @@
 			(type default)
 		)
 		(uuid "5df8b70f-3c0c-4c7a-9ef7-1ea65acf8ea6")
+	)
+	(wire
+		(pts
+			(xy 209.55 111.76) (xy 213.36 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6694c664-e0d3-4f32-9455-4679465e517f")
 	)
 	(wire
 		(pts
@@ -4506,6 +4536,16 @@
 	)
 	(wire
 		(pts
+			(xy 223.52 102.87) (xy 223.52 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c31830c1-4a9c-4b9b-87fd-ff147d0067c5")
+	)
+	(wire
+		(pts
 			(xy 266.065 63.5) (xy 269.24 63.5)
 		)
 		(stroke
@@ -4902,6 +4942,28 @@
 			)
 		)
 	)
+	(global_label "LS+"
+		(shape input)
+		(at 209.55 109.22 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1e306a4f-2c9d-4e12-b3a8-feb5b86ede1f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 202.7548 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "LED3"
 		(shape input)
 		(at 259.715 41.91 180)
@@ -5135,6 +5197,28 @@
 		(uuid "b7ac70f9-db83-47f1-bdb7-c17db476ffb0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 24.2555 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "LS-"
+		(shape input)
+		(at 209.55 111.76 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "bbf17326-3831-4170-8a11-06b48773f256")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 202.7548 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6417,6 +6501,72 @@
 			(project "Unisense"
 				(path "/6df981bf-448b-4c2b-a595-002ffc3cb7bc/0c042db9-5441-4e2b-9b06-01ea01b65c02"
 					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 223.52 102.87 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3598990d-fbf8-4a9d-9741-52bc970001df")
+		(property "Reference" "#PWR0134"
+			(at 223.52 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 223.52 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 223.52 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 223.52 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 223.52 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d806ad84-5a2d-4080-a7aa-eaed9cfdb6a0")
+		)
+		(instances
+			(project "Unisense"
+				(path "/6df981bf-448b-4c2b-a595-002ffc3cb7bc/0c042db9-5441-4e2b-9b06-01ea01b65c02"
+					(reference "#PWR0134")
 					(unit 1)
 				)
 			)
@@ -8258,6 +8408,108 @@
 			(project "Unisense"
 				(path "/6df981bf-448b-4c2b-a595-002ffc3cb7bc/0c042db9-5441-4e2b-9b06-01ea01b65c02"
 					(reference "J7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "burgerLib:SM02B-NSHSS-TB(LF)(SN)")
+		(at 218.44 111.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "78dff71d-6b8c-4443-9b66-0e9dbd2ca0a7")
+		(property "Reference" "P2"
+			(at 226.695 111.125 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SM02B-NSHSS-TB(LF)(SN)"
+			(at 210.82 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "burgerLibFP:CONN-SMD_SM02B-NSHSS-TB-LF-SN"
+			(at 218.44 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Others_JST-Sales-America_SM02B-NSHSS-TB-LF-SN_JST-Sales-America-SM02B-NSHSS-TB-LF-SN_C265415.html"
+			(at 218.44 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 218.44 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "JST"
+			(at 218.44 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C265415"
+			(at 218.44 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Part" "Extended Part"
+			(at 218.44 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7bf4c690-6a75-49f8-9256-cac59b22ba02")
+		)
+		(pin "2"
+			(uuid "1b7045a4-0871-4238-bbbb-fcef2bf7fdbf")
+		)
+		(pin "3"
+			(uuid "c6107793-2089-44dd-b114-8196e9002850")
+		)
+		(pin "4"
+			(uuid "ae01bf0e-a05b-4ae3-a9d1-5af9c548e650")
+		)
+		(instances
+			(project "Unisense"
+				(path "/6df981bf-448b-4c2b-a595-002ffc3cb7bc/0c042db9-5441-4e2b-9b06-01ea01b65c02"
+					(reference "P2")
 					(unit 1)
 				)
 			)
@@ -10136,7 +10388,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm"
 			(at 257.81 154.305 0)
 			(effects
 				(font
@@ -10176,6 +10428,72 @@
 			(project "Unisense"
 				(path "/6df981bf-448b-4c2b-a595-002ffc3cb7bc/0c042db9-5441-4e2b-9b06-01ea01b65c02"
 					(reference "JP1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 223.52 118.11 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d0416ed8-f165-41b1-a4b1-9b076e052e82")
+		(property "Reference" "#PWR0133"
+			(at 223.52 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 223.52 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 223.52 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 223.52 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 223.52 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "84078610-24a6-48ca-a92d-7dd8f26125c7")
+		)
+		(instances
+			(project "Unisense"
+				(path "/6df981bf-448b-4c2b-a595-002ffc3cb7bc/0c042db9-5441-4e2b-9b06-01ea01b65c02"
+					(reference "#PWR0133")
 					(unit 1)
 				)
 			)
